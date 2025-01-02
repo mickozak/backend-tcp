@@ -1,0 +1,1 @@
+Application available at http://vps-26fe98e4.vps.ovh.net:4000. Repository created for code demonstration. Do not download the repository and run it in a local environment because there is no .env file
